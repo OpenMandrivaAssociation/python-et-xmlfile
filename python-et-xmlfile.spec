@@ -1,6 +1,6 @@
 Name:		python-et-xmlfile
 Version:	2.0.0
-Release:	1
+Release:	2
 Summary:	An implementation of lxml.xmlfile for the standard library
 License:	MIT
 Group:		Development/Python
